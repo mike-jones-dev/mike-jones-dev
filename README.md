@@ -30,7 +30,7 @@ I’m documenting everything I learn along the way:
 ## 🧰 Tools & Technologies
 Windows 10/11, Windows Server
 
-Tailscale VPN, Remote Desktop, AnyDesk
+Tailscale VPN, Remote Desktop, Teamviewer
 
 VS Code, GitHub, Unreal Engine, Visual Studio
 
